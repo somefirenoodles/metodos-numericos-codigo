@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Datos crudos de encuesta
+/data/raw/*.csv
+!/data/raw/.gitkeep
+
+# Resultados generados por el script
+/results/*
+!/results/.gitkeep
+
+# Artefactos LaTeX/PDF generados localmente
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
