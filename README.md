@@ -10,8 +10,6 @@ El proyecto analiza respuestas de una encuesta sobre gestión del tiempo libre, 
 .
 ├── src/
 │   └── analisis_modelos.py
-├── paper/
-│   └── paper.tex
 ├── data/
 │   └── raw/
 │       └── .gitkeep
